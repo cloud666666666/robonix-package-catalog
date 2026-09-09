@@ -1,4 +1,6 @@
 packages:
+  - name: robonix.primitive.mirrorme.bpx.quadruped
+    repo: https://github.com/mirrormerobotics/primitive-mirrorme-bpx-quadruped-rbnx
   - name: robonix.primitive.lynx_chassis
     repo: https://github.com/syswonder/primitive-deep-robotics-lynx-chassis-rbnx
   - name: robonix.skill.internvla_navigation
@@ -99,6 +101,8 @@ packages:
     repo: https://github.com/QingFeng34048/Robonix-Skill-openvla_finetune
 
 robots:
+  - name: robonix.robot.mirrorme.bpx
+    repo: https://github.com/mirrormerobotics/robot-mirrorme-bpx
   - name: robonix.robot.deep_robotics.lynx_s10
     repo: https://github.com/syswonder/robot-deep_robotics-lynx_s10
   - name: robonix.robot.agilex.ranger_mini_v3
