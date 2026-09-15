@@ -43,6 +43,10 @@ packages:
     repo: https://github.com/syswonder/primitive-agilex-piper-description-rbnx
   - name: robonix.primitive.agilex.piper.handeye
     repo: https://github.com/syswonder/primitive-agilex-piper-handeye-rbnx
+  - name: robonix.primitive.roboarm.arm
+    repo: https://github.com/cloud666666666/primitive-roboarm-arm-rbnx
+  - name: robonix.primitive.roboarm.description
+    repo: https://github.com/cloud666666666/primitive-roboarm-description-rbnx
   - name: robonix.primitive.wheeltec.r550_minitank.chassis
     repo: https://github.com/syswonder/primitive-wheeltec-r550-chassis-rbnx
   - name: robonix.primitive.wheeltec.lslidar_n10p.lidar
@@ -55,6 +59,12 @@ packages:
     repo: https://github.com/syswonder/service-piper-moveit-rbnx
   - name: robonix.service.roboarm.ik
     repo: https://github.com/syswonder/service-roboarm-ik-rbnx
+  - name: robonix.service.roboarm.arm_ik
+    repo: https://github.com/cloud666666666/service-roboarm-ik-rbnx
+  - name: robonix.service.roboarm.grasp_pose
+    repo: https://github.com/cloud666666666/service-roboarm-grasp-pose-rbnx
+  - name: robonix.service.roboarm.object_detect
+    repo: https://github.com/cloud666666666/service-roboarm-object-detect-rbnx
   - name: robonix.skill.pick.flat_grasp
     repo: https://github.com/cloud666666666/skill-piper-linker-flat-grasp-rbnx
   - name: robonix.skill.pick.vertical_grasp
