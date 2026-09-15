@@ -116,7 +116,7 @@ robots:
   - name: robonix.robot.unitree.go2
     repo: https://github.com/syswonder/robot-unitree-go2
   - name: robonix.robot.unitree.go2_mujoco
-    repo: https://github.com/Origamii520/robot-unitree-go2-mujoco
+    repo: https://github.com/syswonder/robot-unitree-go2-mujoco
   - name: robonix.robot.agilex.dual_piper
     repo: https://github.com/syswonder/robot-agilex-dual-piper
   - name: robonix.robot.wowrobo.roboarm
