@@ -43,8 +43,6 @@ packages:
     repo: https://github.com/syswonder/primitive-agilex-piper-description-rbnx
   - name: robonix.primitive.agilex.piper.handeye
     repo: https://github.com/syswonder/primitive-agilex-piper-handeye-rbnx
-  - name: robonix.primitive.roboarm.arm
-    repo: https://github.com/cloud666666666/primitive-roboarm-arm-rbnx
   - name: robonix.primitive.roboarm.description
     repo: https://github.com/cloud666666666/primitive-roboarm-description-rbnx
   - name: robonix.primitive.wheeltec.r550_minitank.chassis
