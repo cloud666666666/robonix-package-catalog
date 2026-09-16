@@ -100,6 +100,10 @@ packages:
   - name: robonix.skill.adaptive_fine-tuning_for_deployment
     repo: https://github.com/QingFeng34048/Robonix-Skill-openvla_finetune
 
+  - name: robonix.primitive.dji.msdk.flight
+    repo: https://github.com/1020559180/primitive-dji-msdk-flight-rbnx
+  - name: robonix.service.fire_detect
+    repo: https://github.com/1020559180/service-fire-detect-rbnx
 robots:
   - name: robonix.robot.mirrorme.bpx
     repo: https://github.com/mirrormerobotics/robot-mirrorme-bpx
